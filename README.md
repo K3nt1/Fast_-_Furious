@@ -1,6 +1,9 @@
 # Fast_-_Furious
 
+EXECUTER plat.py POUR TESTER LE PROGRAMME
+
 Projet : Étude de Faisabilité – Course de Dom Toretto
+<br>
 Analyse et modélisation du comportement des véhicules sur un circuit extrême pour optimiser le choix du modèle et de ses modifications avant la course décisive contre Owen Shaw.
 
 🔹 Problématique : Sélectionner un véhicule capable de compléter un circuit composé d’une rampe d’élan, d’un looping, d’un saut au-dessus d’un ravin et d’une ligne droite finale, sans subir de dommages et en battant un temps de référence inférieur à 8 secondes.
